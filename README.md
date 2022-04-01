@@ -7,10 +7,15 @@ and sends you an email whenever any user process has more than 6 descendants.
 The body of the email has the following format and  contain the following information:
 
 Time //At which >6 descendants was detected
+
 ProcessID
+
 Desc1PID PPID Level //level=1 indicates child node, Level =2 indicates grandchild etc.
+
 Desc2PID PPID Level //PPID=Parent ID of the descendent process
+
 ….
+
 DescnPID PPID Level
 
 
