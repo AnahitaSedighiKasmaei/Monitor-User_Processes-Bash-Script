@@ -1,4 +1,4 @@
-# Monitor User Processes By Bash Script
+# Monitor User Processes By Bash Script (Shell programming)
 
 
 A Bash script named monitor.sh that continuously monitors user processes
